@@ -10,7 +10,7 @@ hasCJKLanguage = false
 summaryLength = 70 # The length of a post description on a list page.
 buildFuture = true # if true, we can use future date for talks page
 
-copyright = "Calil Drissi ©{year} No Rights Reserved, Just Duties" # copyright symbol: $copy; current year: {year}
+copyright = "Calil Drissi ©{year} - No Rights Reserved Only Duties" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
 paginate = 10 # Number of items per page in paginated lists.
