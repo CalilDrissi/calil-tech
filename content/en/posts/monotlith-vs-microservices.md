@@ -8,7 +8,7 @@ authorImage: /images/whoami/author-3.jpg
 categories:
 - Back-End,
 - Architecture 
-draft: false
+draft: true
 enableToc: true
 enableTocContent: false
 pinned: false
