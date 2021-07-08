@@ -57,7 +57,7 @@ email = "reach@calil.tech"
 whoami = "Software Development Enthusiast"
 bioImageUrl = "https://res.cloudinary.com/calilz/image/upload/v1620528719/PhotoRoom-20210509_011128-02_pg78xv.jpg" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
-location = "Agadir, Morocco"
+location = "Marrakesh, Morocco"
 organization = ""
 link = "https://calendly.com/calildrissi"
 

@@ -1,11 +1,11 @@
 ---
-title : "Styling a Web Page"
+title : "The Evolution of Javascript"
 description: "How to Approach Css Development, Understand the many ways to style your html and how to choose the best approach"
 date : 2021-05-14T16:49:02Z
 draft : true
 autor: "Calil"
 tags : ["FrontEnd", "Css", "Webdesign"]
-image: images/feature1/favorite-css.png
+image: images/feature1/javascript.svg
 authorImage: /images/whoami/faded.jpeg
 ---
 

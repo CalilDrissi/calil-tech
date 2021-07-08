@@ -1,5 +1,5 @@
 ---
-title : "Front End Quick Guide - a holistic view on website front end"
+title : "Holistic View of Front End Dev"
 description: " My Approach for Planning and Building new Projects"
 date : 2021-05-13T23:04:59Z
 author : "Calil Drissi"
@@ -11,7 +11,6 @@ categories:
 draft: true
 enableToc: true
 enableTocContent: false
-authorEmoji: 🎅
 pinned: false
 ---
 

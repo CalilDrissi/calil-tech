@@ -11,8 +11,6 @@ categories:
 draft: true
 enableToc: true
 enableTocContent: false
-authorEmoji: 🎅
-pinned: true
 ---
 
 ![img](https://res.cloudinary.com/calilz/image/upload/v1621855134/dev-process_bs5kpx.jpg)

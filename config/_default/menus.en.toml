@@ -22,3 +22,10 @@
   # name = "Pub"
   # url = "publication"
   # weight = 4
+
+
+  [[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
+  weight = 5

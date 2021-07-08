@@ -1,11 +1,11 @@
 ---
-title : "Universal Principles For Web Design "
+title : "Principles For Web Design "
 description: "Good web design involves more than an esthetically pleasing appearance."
 date : 2021-05-13T23:04:59Z
 draft : true
 author : "Calil"
 tags : ["FrontEnd", "Css", "Webdesign"]
-image: images/feature1/design-principles.png
+image: images/feature1/guide.svg
 ---
 
 Good web design involves more than an esthetically pleasing appearance. Luckily, there are some nearly universal rules of that can help.This article will teach you how to follow the ten rules of thumb in your design work so you can further improve the usability, utility, and desirability of your designs.
