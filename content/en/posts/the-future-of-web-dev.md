@@ -12,7 +12,7 @@ tags:
 - html
 categories:
 - Web Development
-image: images/feature1/web.svg
+authorImage: /images/whoami/author-3.jpg
 ---
 
 
