@@ -6,13 +6,13 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Calil Drissi
+authorImage: /images/whoami/author-3.jpg
 authorEmoji: ✍️
 tags:
 - html
 categories:
 - Web Development
-authorImage: /images/whoami/author-3.jpg
+image: images/feature1/web.svg
 ---
 
 
