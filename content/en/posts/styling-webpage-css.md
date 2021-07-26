@@ -3,7 +3,7 @@ title : "Css Inception to Modern Day"
 description: "How to Approach Css Development, Understand the many ways to style your html and how to choose the best approach"
 date : 2021-05-14T16:49:02Z
 draft : false
-autor: "Calil"
+author : "Calil Drissi"
 tags : ["FrontEnd", "Css", "Web Development"]
 image: images/feature1/css.svg
 authorImage: /images/whoami/author-3.jpg

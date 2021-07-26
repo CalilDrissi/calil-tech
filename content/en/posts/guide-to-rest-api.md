@@ -1,12 +1,12 @@
 ---
 title : "Guide to REST APIs"
 description: "Understand everything about REST APIs"
-date : 2021-05-13T23:04:59Z
+date : 2021-04-15T23:04:59Z
 author : "Calil Drissi"
 image: images/feature1/api.svg
 authorImage: /images/whoami/author-3.jpg
 categories:
-- Back-End,
+- Back-End
 - Architecture 
 draft: false
 enableToc: true
