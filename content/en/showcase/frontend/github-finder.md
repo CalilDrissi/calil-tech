@@ -5,6 +5,5 @@ description: Search for users on Github, built with github Rest Api and React us
 weight: 1
 link: https://restapigithubsearch.netlify.app/
 repo: https://github.com/CalilDrissi/github-search
-pinned: false
-thumb:  showcase/github-finder/github-finder.jpg
+pinned: true
 ---
