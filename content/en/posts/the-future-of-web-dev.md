@@ -1,13 +1,13 @@
 ---
 title: The Future of Web Development
-date: 2019-12-20T12:00:06+09:00
+date: 2021-06-20T12:00:06+09:00
 description: The new trends in web development and new features that will capture and dominate soon.
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
+author : "Calil Drissi"
 authorImage: /images/whoami/author-3.jpg
-authorEmoji: ✍️
 tags:
 - html
 categories:
