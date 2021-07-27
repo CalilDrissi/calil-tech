@@ -39,13 +39,13 @@ Examples: C++, Java, Python.
 
 ### Parallel Processing
 
-**Declarative Programming** The basic idea behind this paradigm is to break up different parts of a task among multiple processors, which simultaneously work on a problem. It’s like having someone make a sauce while you prepare the pizza base - you reduce the time it takes to complete the whole task. With a computer, this implies connecting multiple processors to memory, which is either pooled across all processors or distributed over a network. As such, this typically requires software and hardware resources. A number of programming languages can support parallel processing.
+The basic idea behind this paradigm is to break up different parts of a task among multiple processors, which simultaneously work on a problem. It’s like having someone make a sauce while you prepare the pizza base - you reduce the time it takes to complete the whole task. With a computer, this implies connecting multiple processors to memory, which is either pooled across all processors or distributed over a network. As such, this typically requires software and hardware resources. A number of programming languages can support parallel processing.
 
-Examples: C, C++, MPI.
+Examples: C, C++, MPI, NESL
 
 ## Declarative Programming
 
- is higher-level, focused on logic and concepts rather than procedural flow. In other words, it is concerned with what needs to be done rather than exactly how it should be done. Using the same example as before, this is how declarative programming would solve the problem:
+ **Declarative Programming** is higher-level, focused on logic and concepts rather than procedural flow. In other words, it is concerned with what needs to be done rather than exactly how it should be done. Using the same example as before, this is how declarative programming would solve the problem:
 
 
 ### Logic 
