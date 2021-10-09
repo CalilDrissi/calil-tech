@@ -12,7 +12,7 @@ tags:
 - html
 categories:
 - Web Development
-image: images/feature1/web.svg
+image: https://f000.backblazeb2.com/file/Calilz-refs-bucket/website.png
 ---
 
 

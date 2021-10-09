@@ -3,7 +3,7 @@ title : "Guide to REST APIs"
 description: Explore the basics of APIs, what we can use them for, how to design them and various ways we can protect them.
 date : 2021-04-15T23:04:59Z
 author : "Calil Drissi"
-image: images/feature1/api.svg
+image: https://f000.backblazeb2.com/file/Calilz-refs-bucket/api.png
 authorImage: /images/whoami/author-3.jpg
 categories:
 - Back-End
