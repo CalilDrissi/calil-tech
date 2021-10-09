@@ -10,7 +10,7 @@ author : "Calil Drissi"
 authorImage: /images/whoami/author-3.jpg
 categories:
 - Software Engineering
-image: https://f000.backblazeb2.com/file/Calilz-refs-bucket/flow-chart.png
+image: images/feature1/paradigm.svg
 ---
 
 ![paradigm](/images/feature2/Programming-Paradigms.png "paradigm")

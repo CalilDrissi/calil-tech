@@ -5,7 +5,7 @@ date : 2020-05-14T16:49:02Z
 draft : false
 author : "Calil Drissi"
 tags : ["FrontEnd", "Css", "Web Development"]
-image: https://f000.backblazeb2.com/file/Calilz-refs-bucket/css.png
+image: images/feature1/css.svg
 authorImage: /images/whoami/author-3.jpg
 ---
 
