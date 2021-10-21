@@ -4,11 +4,6 @@
   url = "showcase"
   weight = 1
 
-[[main]]
-  identifier = "posts"
-  name = "Blog"
-  url = "posts"
-  weight = 2
 
 
 [[main]]
@@ -24,8 +19,4 @@
   # weight = 4
 
 
-  [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
-  weight = 4
+  
